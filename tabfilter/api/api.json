@@ -1,0 +1,158 @@
+[
+  {
+    "company": "品牌1",
+    "logo": "./logo_1.png",
+    "vacancy": [
+      {
+        "job": "儲備幹部",
+        "type": "外場",
+        "area": "台中",
+        "salary": "月薪上看45K",
+        "link": "http://google.com"
+      },
+      {
+        "job": "正職人員",
+        "type": "內場",
+        "area": "高雄",
+        "salary": "40K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "正職人員",
+        "type": "內場",
+        "area": "彰化",
+        "salary": "40K up",
+        "link": "http://google.com"
+      }
+    ]
+  },
+  {
+    "company": "品牌2",
+    "logo": "./logo_2.png",
+    "vacancy": [
+      {
+        "job": "兼職人員",
+        "type": "外場",
+        "area": "彰化",
+        "salary": "時薪160-220",
+        "link": "http://google.com"
+      },
+      {
+        "job": "儲備幹部",
+        "type": "內場",
+        "area": "高雄",
+        "salary": "48K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "儲備幹部",
+        "type": "內場",
+        "area": "台中",
+        "salary": "48K up",
+        "link": "http://google.com"
+      }
+    ]
+  },
+  {
+    "company": "品牌3",
+    "logo": "./logo_5.png",
+    "vacancy": [
+      {
+        "job": "正職人員",
+        "type": "外場",
+        "area": "台中",
+        "salary": "40K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "正職人員",
+        "type": "外場",
+        "area": "台中",
+        "salary": "40K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "儲備幹部",
+        "type": "外場",
+        "area": "台南",
+        "salary": "48K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "儲備幹部",
+        "type": "外場",
+        "area": "彰化",
+        "salary": "48K up",
+        "link": "http://google.com"
+      }
+    ]
+  },
+  {
+    "company": "品牌4",
+    "logo": "./logo_6.png",
+    "vacancy": [
+      {
+        "job": "正職人員",
+        "type": "外場",
+        "area": "台中",
+        "salary": "40K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "正職人員",
+        "type": "外場",
+        "area": "台中",
+        "salary": "40K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "儲備幹部",
+        "type": "外場",
+        "area": "台南",
+        "salary": "48K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "儲備幹部",
+        "type": "外場",
+        "area": "彰化",
+        "salary": "48K up",
+        "link": "http://google.com"
+      }
+    ]
+  },
+  {
+    "company": "品牌5",
+    "logo": "./logo_7.png",
+    "vacancy": [
+      {
+        "job": "正職人員",
+        "type": "外場",
+        "area": "台中",
+        "salary": "40K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "正職人員",
+        "type": "外場",
+        "area": "台中",
+        "salary": "40K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "儲備幹部",
+        "type": "外場",
+        "area": "台南",
+        "salary": "48K up",
+        "link": "http://google.com"
+      },
+      {
+        "job": "儲備幹部",
+        "type": "外場",
+        "area": "彰化",
+        "salary": "48K up",
+        "link": "http://google.com"
+      }
+    ]
+  }
+]
